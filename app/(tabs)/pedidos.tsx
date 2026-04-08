@@ -1,12 +1,12 @@
-import {
-  View,
-  Text,
-  ScrollView,
-  TouchableOpacity,
-  StyleSheet,
-} from 'react-native';
-import { useState } from 'react';
 import { Ionicons } from '@expo/vector-icons';
+import { useState } from 'react';
+import {
+  ScrollView,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  View,
+} from 'react-native';
 import { theme } from '../../constants/theme';
 
 type OrderStatus = 'aguardando' | 'preparando' | 'pronto';

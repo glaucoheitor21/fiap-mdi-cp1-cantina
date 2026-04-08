@@ -32,8 +32,7 @@ O **FIAP Cantina** é um aplicativo mobile que permite ao aluno visualizar o car
 
 | Nome completo | RM |
 |---|---|
-| <!-- Glauco Gonçalves --> | <!-- RM 555978 --> |
-| <!-- Nome do integrante 2 --> | <!-- RM --> |
+- Glauco Gonçalves - RM 555978
 
 ---
 

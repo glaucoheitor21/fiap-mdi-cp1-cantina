@@ -49,10 +49,10 @@ O **FIAP Cantina** é um aplicativo mobile que permite ao aluno visualizar o car
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/<!-- seu-usuario -->/fiap-cantina.git
+git clone https://github.com/glaucoheitor21/fiap-mdi-cp1-cantina
 
 # 2. Entre na pasta do projeto
-cd fiap-cantina
+cd fiap-mdi-cp1-cantina
 
 # 3. Instale as dependências
 npm install

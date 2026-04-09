@@ -33,6 +33,7 @@ O **FIAP Cantina** é um aplicativo mobile que permite ao aluno visualizar o car
 | Nome completo | RM |
 |---|---|
 - Glauco Gonçalves - RM 555978
+- Pedro Junqueira - RM 556278
 
 ---
 

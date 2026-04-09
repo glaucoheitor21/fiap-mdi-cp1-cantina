@@ -72,13 +72,14 @@ Para rodar no emulador, pressione `a` (Android) ou `i` (iOS) no terminal após o
 ### Telas do Aplicativo
 
 #### Tela de Login
-[<!-- ![Login](./assets/screenshots/login.png) -->](https://raw.githubusercontent.com/glaucoheitor21/fiap-mdi-cp1-cantina/refs/heads/main/assets/screenshots/login.png)
+<img width="384" height="574" alt="login" src="https://github.com/user-attachments/assets/b3b83fe5-0fd2-4299-8313-26add18d294f" />
+
 
 #### Cardápio
-[<!-- ![Cardápio](./assets/screenshots/cardapio.png) -->](https://raw.githubusercontent.com/glaucoheitor21/fiap-mdi-cp1-cantina/refs/heads/main/assets/screenshots/cardapio.png)
+<img width="384" height="575" alt="cardapio" src="https://github.com/user-attachments/assets/0c0da70a-75a8-420d-b510-8f192c74666c" />
 
 #### Pedidos Abertos
-[<!-- ![Pedidos](./assets/screenshots/pedidos.png) -->](https://raw.githubusercontent.com/glaucoheitor21/fiap-mdi-cp1-cantina/refs/heads/main/assets/screenshots/pedidos.png)
+<img width="371" height="575" alt="pedidos" src="https://github.com/user-attachments/assets/84feec95-ca1b-47a0-a1c8-eaac36e4386f" />
 
 ---
 

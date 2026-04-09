@@ -1,15 +1,15 @@
+import { useRouter } from 'expo-router';
+import { useState } from 'react';
 import {
-  View,
+  ActivityIndicator,
+  KeyboardAvoidingView,
+  Platform,
+  StyleSheet,
   Text,
   TextInput,
   TouchableOpacity,
-  StyleSheet,
-  KeyboardAvoidingView,
-  Platform,
-  ActivityIndicator,
+  View,
 } from 'react-native';
-import { useRouter } from 'expo-router';
-import { useState } from 'react';
 import { theme } from '../constants/theme';
 
 export default function LoginScreen() {

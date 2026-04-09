@@ -71,8 +71,6 @@ Para rodar no emulador, pressione `a` (Android) ou `i` (iOS) no terminal após o
 
 ### Telas do Aplicativo
 
-> ⚠️ _Adicione abaixo os prints de cada tela. Sugestão: arraste as imagens direto para o repositório no GitHub._
-
 #### Tela de Login
 <!-- ![Login](./assets/screenshots/login.png) -->
 
@@ -81,13 +79,6 @@ Para rodar no emulador, pressione `a` (Android) ou `i` (iOS) no terminal após o
 
 #### Pedidos Abertos
 <!-- ![Pedidos](./assets/screenshots/pedidos.png) -->
-
-### Vídeo / GIF de Demonstração
-
-> 🎥 _Grave o fluxo principal (login → montar pedido → ver pedidos) e adicione o link abaixo._  
-> _Para GIF: use o Android Studio (emulador → Record Screen). Para vídeo: grave a tela e suba no YouTube ou Google Drive._
-
-<!-- [▶️ Assistir demonstração](https://link-do-video-aqui) -->
 
 ---
 
